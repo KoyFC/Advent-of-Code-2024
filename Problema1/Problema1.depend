@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1733051958 source:c:\users\jorge\documents\usj\adventofcode\problema1\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1733055885 source:c:\users\jorge\documents\github\advent-of-code-2024\problema1\main.c
+	<stdio.h>
+	<stdlib.h>
+
