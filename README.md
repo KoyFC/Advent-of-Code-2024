@@ -4,7 +4,7 @@
 
 ## 📜 Descripción
 
-**Advent of Code** es una serie de retos de programación que se publican diariamente desde el 1 hasta el 25 de diciembre. Creado por [Eric Wastl](https://adventofcode.com/), este evento anual desafía a los participantes con problemas que van desde conceptos básicos hasta desafíos más complejos, ideales para aprender, practicar y disfrutar de la programación.
+[**Advent of Code**](https://adventofcode.com/) es una serie de retos de programación que se publican diariamente desde el 1 hasta el 25 de diciembre.
 
 Este repositorio contiene mis soluciones a los problemas del **Advent of Code 2024**. Cada día está representado por un problema, organizado en carpetas numeradas.
 
@@ -19,7 +19,7 @@ Este repositorio contiene mis soluciones a los problemas del **Advent of Code 20
 
 ## 📜 Description
 
-**Advent of Code** is a series of daily programming challenges published every year from December 1st to 25th. Created by [Eric Wastl](https://adventofcode.com/), this annual event offers problems that range from basic concepts to more complex challenges, making it perfect for learning, practicing, and enjoying programming.
+[**Advent of Code**](https://adventofcode.com/) is a series of daily programming challenges published every year from December 1st to 25th.
 
 This repository contains my solutions to the **Advent of Code 2024** problems. Each day is represented by a problem, organized in numbered folders.
 
