@@ -3,7 +3,7 @@
 #define REPTAM 1000 // Number of lines in the input file
 #define LEVTAM 8 // Maximum number of integers per line
 
-// The functions may not be as efficient as possible, but I made as modular as I could to make it understandable.
+// The functions may not be as efficient as possible, but I made them as modular as I could to make it understandable.
 
 void readFile(int [REPTAM][LEVTAM]);
 int checkSafety(int [REPTAM][LEVTAM]);
@@ -31,7 +31,6 @@ int main()
 }
 
 void readFile(int array[REPTAM][LEVTAM]){
-
     int i = 0, j = 0, aux = 0;
     char aux2;
     FILE * fread = fopen("input.txt", "r");
@@ -52,9 +51,8 @@ void readFile(int array[REPTAM][LEVTAM]){
 int checkSafety(int array[REPTAM][LEVTAM]){
     int i = 0, safeLines = 0;
 
-    for (i = 0; i < REPTAM; i++){
+    for (i = 0; i < REPTAM; i++)
         safeLines += isLineSafe(array, i);
-    }
 
     return safeLines;
 }
